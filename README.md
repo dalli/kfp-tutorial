@@ -1,2 +1,2 @@
 # kfp-tutorial
-kubeflow pipelin tutorial 
+kubeflow pipeline tutorial 
